@@ -27,7 +27,7 @@ const App = () => {
         
         <p>This is the content for {tabs}</p>
     </div>
-  )
+  )  
 }
 
 export default App

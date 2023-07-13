@@ -4,7 +4,7 @@ const Tabs = ({ title }) => {
     
 
     return(
-        <li>{Title}</li>
+        <li>{title}</li>
     )
 }
 
